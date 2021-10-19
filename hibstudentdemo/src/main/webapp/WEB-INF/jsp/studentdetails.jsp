@@ -7,11 +7,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Employee Management Screen</title>
+<title>Student Management Screen</title>
 </head>
 <body>
     <div align="center">
-        <h1>Employee List</h1>
+        <h1>Student List</h1>
         <h3>
             <a href="newStudent">New Student</a>
         </h3>
